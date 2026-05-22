@@ -3,12 +3,16 @@
   "description": "补充一些找不到的图标，尺寸为108px或144px，更新日期：2026-05-22 09:30:00",
   "icons": [
     {
-      "name": "fmz200",
-      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/fmz200-01.png"
+      "name": "currency",
+      "url": "https://raw.githubusercontent.com/ZZQQ1122/Icon/main/icons/currency.png"
     },
-{
-			"name": "IPATool",
-			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/120px/IPATool.png"
-		}
-	]
+    {
+			"name": "yosum",
+			"url": "https://raw.githubusercontent.com/ZZQQ1122/Icon/main/icons/yosum.png"
+    },
+    {
+      "name": "mgsp",
+      "url": "https://raw.githubusercontent.com/ZZQQ1122/Icon/main/icons/mgsp.png"
+    }
+  ]
 }
